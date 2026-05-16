@@ -1,10 +1,13 @@
 # Rafael Vieira Braga
 <h3 align="center">A passionate fullstack developer from Brazil.</h3>
 
-Hello, welcome to my page on GitHub. I have a bachelor's degree in Information Systems, graduated from Estácio - FIC, since February 2020. I am looking for professional relocation, I am 20 years at Eletrobrás, as a technical assistant (operator of facilities), and I try to enter the IT area. During this time in the company I was facilitator in the implementation of ISO 9001, I was in charge of substation replacement and also developed a java desktop application to replace another developed in Delphi that required some fixes and updates.At the moment I am using React.js for the front ends of my applications, but I also have experience in Thymeleaf and have the basics of Angular.
+Hello, welcome to my GitHub page. I hold a Bachelor's degree in Information Systems from Estácio - FIC, graduated since February 2020. I am a Full Stack Developer working mainly with Java and Spring Boot.
 
-Olá, bem vindo a minha página no GitHub. Sou bacharel em Sistemas de Informação, formado pela Estácio - FIC, desde Fevereiro de 2020. Estou em busca de recolocação profissional, estou a 20 anos na Eletrobrás, como assistente técnico( operador de instalações), e procuro entrar na área de TI. Durante esse tempo na empresa fui facilitador na implantação da ISO 9001, fui encarregado substituto de subestação e também desenvolvi um aplicativo java desktop para substituir um outro desenvolvido em Delphi que necessitava de algumas correções e atualizações.
-No momento estou utilizando React.js para os front-ends das minhas aplicações, mas também possuo experiência em Thymeleaf e tenho o básico de Angular.
+I have been working for one and a half years at the Prefeitura de Caucaia, where I am responsible for the CRC CAUCAIA system. This system issues the Registration Compliance Certificate, which supports the municipality’s creditor payment process and has reduced paper usage by 85%.
+
+The expectation is that the physical process will be completely replaced by a digital solution called VIRTUA, where the entire payment workflow (initially, with plans to expand to other processes) will be managed digitally. The platform allows the submission of all required documents and includes digital signatures from the public servants involved in the process.
+
+Olá, bem vindo a minha página no GitHub. Sou bacharel em Sistemas de Informação, formado pela Estácio - FIC, desde Fevereiro de 2020. Sou desenvolvedor FULLSTACK, usando java e spring boot, estou trabalhando a um ano e meio na prefeitura de Caucaia, sendo responsável pelo sistema : CRC CAUCAIA, responsável por emitir o Certificado de Regularidade Cadastral que auxilia na no processo de pagamento de credores do município e reduziu em 85% o uso de papel e a previsão é que o processo físico seja totalmente substituido pelo digital com uma outra solução chamada VIRTUA, onde será realizado todo o processo de pagamento(inicialmente, expandindo para outros processos) com adição de todos os documentos e conta com assinatura digital destes por parte dos servidores envolvidos. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelvbraga&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelvbraga" /> </p>
 
