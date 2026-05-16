@@ -3,7 +3,7 @@
 
 Hello, welcome to my GitHub page. I hold a Bachelor's degree in Information Systems from Estácio - FIC, graduated since February 2020. I am a Full Stack Developer working mainly with Java and Spring Boot.
 
-I have been working for one and a half years at the Prefeitura de Caucaia, where I am responsible for the CRC CAUCAIA system. This system issues the Registration Compliance Certificate, which supports the municipality’s creditor payment process and has reduced paper usage by 85%.
+I have been working for one and a half years at the Caucaia's CityHall, where I am responsible for the CRC CAUCAIA system. This system issues the Registration Compliance Certificate, which supports the municipality’s creditor payment process and has reduced paper usage by 85%.
 
 The expectation is that the physical process will be completely replaced by a digital solution called VIRTUA, where the entire payment workflow (initially, with plans to expand to other processes) will be managed digitally. The platform allows the submission of all required documents and includes digital signatures from the public servants involved in the process.
 
