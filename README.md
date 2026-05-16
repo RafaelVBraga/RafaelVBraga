@@ -8,9 +8,9 @@ No momento estou utilizando React.js para os front-ends das minhas aplicações,
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelvbraga&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelvbraga" /> </p>
 
-- 🔭 I’m currently working on **Chesf**
+- 🔭 I’m currently working on **Caucaia's CityHall**
 
-- 🌱 I’m currently learning **React.js**, **Oracle**
+- 🌱 I’m currently working with **Angular**, **Java**, **Spring Boot**
 
 - 📫 How to reach me **rafael.vieira.braga@gmail.com**
 
